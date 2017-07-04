@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{8F0F7F98-73AC-4832-BEB5-AEED05AF7F35}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CRM-MOBILE/ViewModels/LoginViewModel.cs">
+    <Files>
+      <File FileName="CRM-MOBILE/Pages/Login.xaml" Line="34" Column="1" />
+      <File FileName="CRM-MOBILE/Pages/Login.xaml.cs" Line="15" Column="109" />
+      <File FileName="CRM-MOBILE/ViewModels/LoginViewModel.cs" Line="10" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CRM-MOBILE.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0FFFC783-B2C4-4E4B-A8D1-7A441F7EF9A4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CRM-MOBILE.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+</Properties>

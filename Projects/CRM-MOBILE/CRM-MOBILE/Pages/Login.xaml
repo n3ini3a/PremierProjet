@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="CRMMOBILE.Login">
+	<ContentPage.Content>
+        <StackLayout Orientation = "Vertical" Padding="20" Spacing = "30">
+            <BoxView HeightRequest="10" />
+            <Frame HasShadow ="false" BackgroundColor = "#BF043055">
+            <StackLayout Orientation= "Vertical" Spacing = "10">
+                <Entry x:Name ="EmailEntry" 
+                        Text = "{Binding EmailAddress}"
+                        Placeholder = "Email"
+                        HeightRequest= "40"
+                        TextColor="Black" />
+                 <Entry x:Name ="PasswordEntry" 
+                        Text = "{Binding Password}"
+                        Placeholder = "Password"
+                        HeightRequest= "40"
+                        IsPassword = "true"
+                        TextColor="Black" />
+            </StackLayout>
+            </Frame>
+        </StackLayout>
+	</ContentPage.Content>
+</ContentPage>
